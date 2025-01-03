@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Hero from "./components/HomePage/HeroSec";
 import Feature from "./components/HomePage/feature";
 import Latest from "./components/HomePage/Latest";
@@ -10,7 +9,6 @@ import UniqueItem from "./components/HomePage/Unique";
 import TopCategories from "./components/HomePage/topCategories";
 import Newsletter from "./components/HomePage/newsletter";
 import BlogCard from "./components/HomePage/blogcard";
-import Link from 'next/link';
 
 
 export default function Home() {
